@@ -6,7 +6,7 @@
 
   (paper "A4")
   (title_block
-    (title "Raven Split 38-Key (choc-hotswap-n!n)")
+    (title "Raven Split 38-Key PCB (choc-hotswap-n!n)")
     (date "2023-10-22")
     (rev "0.1")
     (company "Joe Love")
