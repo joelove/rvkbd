@@ -80,4 +80,4 @@ You might want extra, optional components for socketing or adding a cover to the
 | 4 | M2 8mm stand-offs | To hold the cover the correct distance from the PCB, small double-sided stand-offs are needed. With the low profile sockets, I needed 6 or 8mm long stand-offs, but that will vary based on exactly how you solder the microcontroller. |
 | 8 | M2 6mm wafer head bolts | Attaching the stand-offs needs flat wafer bolts, both to reduce protrusion on the underside and also to avoid cracking the acrylic covers. DO NOT over-tighten! |
 
-To assemble the keyboard you will need several, specific tools. I'll add a full list here once I've completed the build guide.
+To assemble the keyboard you will need several, specific tools. Anyone who has built this kind of thing before will already have a good idea of these and probably won't need anything special. Regardless, I'll be adding an exhaustive list of those tools here along with the upcoming step-by-step build guide.
