@@ -32,7 +32,7 @@ Version 1 comes with [an edge-cuts gerber](raven-split-38key/raven-split-38key__
 
 Version 1 is not intended to be used with a case and does not include a case model of any kind nor the required mounting holes. Instead, the board rests directly on the hotswap sockets and uses rubber feet for grip and stability. This is an intentional decision intended to reduce the height of the board but probably reduces the durability of the final product.
 
-If you want to use a case, I recommend adding several through-hole pads to the PCB file before having it fabricated. How you use those mounting holes and create the case itself is up to you. Common approaches include 3D-printing and making a layered case out of extra unprinted FR-4 or other lazer cut sheet materials.
+> If you want to use a case, I recommend adding several through-hole pads to the PCB file before having it fabricated. How you use those mounting holes and create the case itself is up to you. Common approaches include 3D-printing and making a layered case out of extra unprinted FR-4 or other lazer cut sheet materials.
 
 ## Required Components
 
@@ -67,5 +67,3 @@ You might want extra, optional components for socketing or adding a cover to the
 | 2 | 2–3mm acrylic covers | Adding covers to the microcontroller hides them and provides protection. I manually fabricated my own but you could lazer cut the required shape. I haven't yet created a DXF for that component but may in the future. |
 | 4 | M2 8mm stand-offs | To hold the cover the correct distance from the PCB, small double-sided stand-offs are needed. With the low profile sockets, I needed 6 or 8mm long stand-offs, but that will vary based on exactly how you solder the microcontroller. |
 | 8 | M2 6mm wafer head bolts | Attaching the stand-offs needs flat wafer bolts, both to reduce protrusion on the underside and also to avoid cracking the acrylic covers. DO NOT over-tighten! |
-
-To assemble the keyboard you will need several, specific tools. Anyone who has built this kind of thing before will already have a good idea of these and probably won't need anything special. Regardless, I'll be adding an exhaustive list of those tools here along with the upcoming step-by-step build guide.
