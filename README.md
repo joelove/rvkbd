@@ -6,7 +6,7 @@ The Raven keyboard (rvkbd) is a wireless, low-profile, split keyboard based on t
 
 The goal of this project is to create a split layout with an aggressive, irregular stagger to match a sub-integer [2D:4D ratio](https://en.wikipedia.org/wiki/Digit_ratio) of approximately 0.925. The 38-key layout is a product of countless iterations on [my personal keymap](images/example-keymap.png), aiming to minimize finger movement and total keystrokes whilst maintaining a clean, logical distinction between layers.
 
-> ### [Version 1 Build Guide](raven-split-38key/raven-split-38key__choc-hotswap-n!n/BUILD_GUIDE.md)
+> ### 🛠️ [Version 1 Build Guide](raven-split-38key/raven-split-38key__choc-hotswap-n!n/BUILD_GUIDE.md) 🛠️
 
 ## Microcontrollers
 
@@ -24,13 +24,13 @@ The PCB key-spacing is designed for 17x17mm keycaps with a 2mm border radius. I'
 
 The keyboard works best with Chosfox PBT keycaps which can be purchased from the [Mechanical Switch Store](https://www.aliexpress.com/item/1005004558099208.html) on AliExpress and shipped internationally. They also sell homing keys and 1.5U thumb keys [here](https://www.aliexpress.com/item/1005004780019538.html).
 
-## Plates
+## Plate
 
 Version 1 comes with [an edge-cuts gerber](raven-split-38key/raven-split-38key__choc-hotswap-n!n/pcb/gerber.zip  "download") intended to be cut from 1.2mm FR-4. Alternatively, an identical but untested DXF is included for lazer cutting other sheet materials.
 
 > The plate should be exactly 1.2mm thick and fairly stiff to allow the low profile choc (v1) switches to attach easily and securely. The switches will slip out of a thicker plate more easily but the edges of the plate cuts are quite thin so the material needs to be very strong and not too brittle, e.g. carbon fibre or aluminum.
 
-## Cases
+## Case
 
 Version 1 is not intended to be used with a case and does not include a case model of any kind nor the required mounting holes. Instead, the board rests directly on the hotswap sockets and uses rubber feet for grip and stability. This is an intentional decision intended to reduce the height of the board but probably reduces the durability of the final product.
 

@@ -1,7 +1,6 @@
+# Version 1 Build Guide
 
-## Version 1 Build Guide
-
-### Required Components
+## Required Components
 
 Below is listed the minimum components required to assemble a single keyboard.
 
@@ -23,7 +22,7 @@ Below is listed the minimum components required to assemble a single keyboard.
 
 > The Chosfox keycaps are 17x17mm and the key spacing on the PCB has been designed with that spacing in mind. I've read that the standard Kailh keycaps are is 1mm wider so it's probably wise to use these exact keycaps (unless you know what you're doing)
 
-### Optional Components
+## Optional Components
 
 You might want extra, optional components for socketing or adding a cover to the microcontroller, adding rubber feet or other details. I've included a separate list of those items here and their purposes to help you choose.
 
