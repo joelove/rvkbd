@@ -12,9 +12,9 @@ The goal of this project is to create a split layout with an aggressive, irregul
 
 The Raven is designed to be entirely wireless and built with the [nice!nano microcontroller](https://nicekeyboards.com/nice-nano/). A full list of international stockists is available on their website.
 
-> Sometimes the nice!nano can be hard to get but in theory the keyboard is compatible with any wireless controller with a Pro Micro footprint. One of the more common and well-reviewed nice!nano clones is the [Supermini NRF5284](https://www.aliexpress.com/item/1005006035505133.html).
->
-> A comprehensive list of possible alternatives can be found [here](https://github.com/joric/nrfmicro/wiki/Alternatives). All of these options are untested and you might run into unforeseen complexities when using an alternative microcontroller.
+The keyboard is compatible with any wireless controller with a Pro Micro footprint. One of the more well-reviewed and easy to obtain nice!nano clones is the [Supermini NRF5284](https://www.aliexpress.com/item/1005006035505133.html) which has been tested with this keyboard and worked as expected.
+
+> A comprehensive list of possible alternatives can be found [here](https://github.com/joric/nrfmicro/wiki/Alternatives). Most of these options are untested and you might run into unforeseen complexities when using an alternative microcontroller.
 
 ## Keycaps
 
@@ -35,3 +35,13 @@ Version 1 comes with [an edge-cuts gerber](raven-split-38key/raven-split-38key__
 Version 1 is not intended to be used with a case and does not include a case model of any kind nor the required mounting holes. Instead, the board rests directly on the hotswap sockets and uses rubber feet for grip and stability. This is an intentional decision intended to reduce the height of the board but probably reduces the durability of the final product.
 
 > If you want to use a case, I recommend adding several through-hole pads to the PCB file before having it fabricated. How you use those mounting holes and create the case itself is up to you. Common approaches include 3D-printing and making a layered case out of extra unprinted FR-4 or other lazer cut sheet materials.
+
+## Firmware
+
+The Raven uses [ZMK](https://zmk.dev/docs) for firmware. Because the PCB shares a wiring schematic with the Corne keyboard, it can be loaded with any existing 3x6 Corne configuration out-of-the box.
+
+> Any repurposed Corne 3x6 keymap will be missing the outermost top and bottom keys due to the difference in physical layout. Any key mappings in these positions will not be accessible on the Raven.
+
+If you want to customize the layout or create your own config, I have created a [custom shield and config repo](https://github.com/joelove/rvkbd-zmk-config). Just fork the repo and use the layout editor in the README to quickly and easily design your own.
+
+> Flashable firmware artifacts can be found in the repo _Actions_ tab, just download them then hit the reset key twice on each half and drag each firmware file onto the "NICENANO" drive that appears.
