@@ -1,10 +1,12 @@
 # Version 1 Build Guide
 
+![PCB Preview](../../images/pcb-preview.png)
+
 ## Required Components
 
 Below is listed the minimum components required to assemble a single keyboard.
 
-> It's important to have spares for if you make a mistake. Also, buying more units of a component gets much cheaper very quickly so don't be afraid to buy more than you need or aim to build two.
+> It's important to have spares for if you make a mistake. Also, buying more units of a component gets much cheaper very quickly so don't be afraid to buy more than you need or aim to build two units.
 
 | | Component | Link |
 |-|-----------|------|
