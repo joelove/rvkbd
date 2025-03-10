@@ -24,7 +24,7 @@ The goal of this project is to create a split layout with an aggressive, irregul
 
 The Raven is designed to be entirely wireless and built with the [nice!nano microcontroller](https://nicekeyboards.com/nice-nano/). A full list of international stockists is available on their website.
 
-The keyboard is compatible with any wireless controller with a Pro Micro footprint. One of the more well-reviewed and easy to obtain nice!nano clones is the [Supermini NRF5284](https://www.aliexpress.com/item/1005006035505133.html) which has been tested with this keyboard and worked as expected.
+The keyboard is compatible with any wireless controller with a Pro Micro footprint. One of the best-received and easiest to obtain nice!nano clones is the [Supermini NRF5284](https://www.aliexpress.com/item/1005006035505133.html) which has been tested with this keyboard and works as expected.
 
 > A comprehensive list of possible alternatives can be found [here](https://github.com/joric/nrfmicro/wiki/Alternatives). Most of these options are untested and you might run into unforeseen complexities when using an alternative microcontroller.
 
