@@ -1,5 +1,7 @@
 # Raven Split Keyboard
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-green?style=for-the-badge)](https://github.com/sponsors/joelove)
+
 ![PCB Preview](images/keyboard-on-chess-board.jpg)
 
 The Raven keyboard (rvkbd) is a wireless, low-profile, split keyboard based on the [Corne keyboard](https://github.com/foostan/crkbd) by foostan. It has a 3x5 column staggered layout with 3 thumb keys and 1 extra outer pinky key.
