@@ -6,14 +6,17 @@ The Raven keyboard (rvkbd) is a wireless, low-profile, split keyboard based on t
 
 The goal of this project is to create a split layout with an aggressive, irregular stagger to match a sub-integer [2D:4D ratio](https://en.wikipedia.org/wiki/Digit_ratio) of approximately 0.925. The 38-key layout is a product of countless iterations on [my personal keymap](images/example-keymap.png), aiming to minimize finger movement and total keystrokes whilst maintaining a clean, logical distinction between layers.
 
-<img src="images/wiring-diagram.png" width="500rem" />
+<h3 align="center" style="margin-top: 5rem">
+  <a href="raven-split-38key/raven-split-38key__choc-hotswap-n!n/BUILD_GUIDE.md">
+    🛠️ Version 1 Build Guide 🛠️
+  </a>
+</h3>
 
-> ### 🛠️ [Version 1 Build Guide](raven-split-38key/raven-split-38key__choc-hotswap-n!n/BUILD_GUIDE.md) 🛠️
+![Wiring Diagram](images/wiring-diagram.png)
 
 ## Example Keymap
 
 ![Example Keymap](images/example-keymap.png)
-
 
 ## Microcontrollers
 
