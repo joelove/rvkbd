@@ -1,12 +1,19 @@
 # Raven Split Keyboard
 
-The Raven keyboard (rvkbd) is a wireless, low-profile, split keyboard based on the [Corne keyboard](https://github.com/foostan/crkbd) by foostan. It has a 3x5 column staggered layout with 3 thumb keys and 1 extra outer pinky key.
-
 ![PCB Preview](images/keyboard-on-chess-board.jpg)
+
+The Raven keyboard (rvkbd) is a wireless, low-profile, split keyboard based on the [Corne keyboard](https://github.com/foostan/crkbd) by foostan. It has a 3x5 column staggered layout with 3 thumb keys and 1 extra outer pinky key.
 
 The goal of this project is to create a split layout with an aggressive, irregular stagger to match a sub-integer [2D:4D ratio](https://en.wikipedia.org/wiki/Digit_ratio) of approximately 0.925. The 38-key layout is a product of countless iterations on [my personal keymap](images/example-keymap.png), aiming to minimize finger movement and total keystrokes whilst maintaining a clean, logical distinction between layers.
 
+<img src="images/wiring-diagram.png" width="500rem" />
+
 > ### 🛠️ [Version 1 Build Guide](raven-split-38key/raven-split-38key__choc-hotswap-n!n/BUILD_GUIDE.md) 🛠️
+
+## Example Keymap
+
+![Example Keymap](images/example-keymap.png)
+
 
 ## Microcontrollers
 
@@ -19,8 +26,6 @@ The keyboard is compatible with any wireless controller with a Pro Micro footpri
 ## Keycaps
 
 The PCB key-spacing is designed for 17x17mm keycaps with a 2mm border radius. I've read that standard Kailh keycaps are 17x18mm so will probably not fit without modification.
-
-[Layout Preview](images/layout-preview.png)
 
 The keyboard works best with Chosfox PBT keycaps which can be purchased from the [Mechanical Switch Store](https://www.aliexpress.com/item/1005004558099208.html) on AliExpress and shipped internationally. They also sell homing keys and 1.5U thumb keys [here](https://www.aliexpress.com/item/1005004780019538.html).
 
