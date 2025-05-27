@@ -48,7 +48,7 @@ Version 1 is not intended to be used with a case and does not include a case mod
 
 ## Firmware
 
-The Raven uses [ZMK](https://zmk.dev/docs) for firmware. Because the PCB shares a wiring schematic with the Corne keyboard, it can be loaded with any existing 3x6 Corne configuration out-of-the box.
+The Raven uses [ZMK](https://zmk.dev/docs) for firmware. Because the PCB shares a wiring schematic with the Corne keyboard, it can be loaded with any existing 3x6 Corne configuration.
 
 > Any repurposed Corne 3x6 keymap will be missing the outermost top and bottom keys due to the difference in physical layout. Any key mappings in these positions will not be accessible on the Raven.
 
